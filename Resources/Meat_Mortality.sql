@@ -6,7 +6,7 @@ CREATE TABLE public."Meat_Mortality"
 (
     "Entry_ID" integer NOT NULL,
     "Date" date,
-    "Location" "char",
+    "Location" "varchar(30)",
     "Consumption" real,
     "Mortality" real,
     CONSTRAINT "Meat_Mortality_pkey" PRIMARY KEY ("Entry_ID")
