@@ -21,7 +21,7 @@ Transform
   
   - For the mortality_df we drop several rows that we deemed not neccessary/ had no data.(['Indicator','AgeGroup','DataType', 'Location', 'Unit', 'Source', 'DataType'])
   
-  - For meat_df, we drop rows we deemed not neccessary/ head no data. (['Indicator','Flag codes','Frequency', 'Measure'])
+  - For meat_df, we drop rows we deemed not neccessary/ had no data. (['Indicator','Flag codes','Frequency', 'Measure'])
   
   - We then align the meat_df to mortality_df columns using the cc_dict. 
   
