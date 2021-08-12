@@ -2,7 +2,8 @@
 
 Extract
 
-- We debated on what data to use at the start until we decided on meat consumption and mortality due to the datasets being useful in drawing a simple correlation.
+- We debated on what data to use at the start until we decided on meat consumption and mortality.
+- How does meat consumption play a role in incidental poisoning? Is it mere correlation? What is the death rate for countries that eat alot of meat? Countries that eat less?
 
   - Data:
 
