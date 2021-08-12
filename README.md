@@ -8,7 +8,9 @@ Extract
   - Data:
 
     - MeatConsumption CSV from OECD website: Details year(1990-2029), meat type, weight(of meat consumed), Frequency, Measure, indicator, flag code
-    - MortalityByUnintentionalPoisoning XLSX from CDC website: Details indicator, sex, region, unit(rate per 100,000), value, year(2000-2015), data source, location, .
+    
+    - MortalityByUnintentionalPoisoning XLSX from CDC website: Details indicator, sex, region, unit(rate per 100,000), value, year(2000-2015), data source, location.
+          
     - Country Code CSV from OECD website: Details countries and their assign abbreviation.
 
 Transform
