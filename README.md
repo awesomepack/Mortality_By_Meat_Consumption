@@ -5,8 +5,8 @@ By combining the CDC's data on death from unintentional poisoning (2000 - 2015) 
 
 ## Overview:
 - ### ETL
-- Analysis
-- Findings
+- ### Analysis
+- ### Findings
 
 Extract
 
