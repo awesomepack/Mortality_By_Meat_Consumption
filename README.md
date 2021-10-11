@@ -1,11 +1,14 @@
 # Mortality_By_Meat_Consumption
 
 ## Summary:
-By combining the CDC's data on deaths from unintentional poisoning (2000 - 2015) with OECD's data on meat consumption (1990 - 2029) by country we investigated a correlation between the amount of meat a country consumed and the number of fatalities attributed to unintentional poisoning.
+Using the World Health Organization's mortality dataset with OECD's dataset on global meat consumption we investigate any trends that may be present between a country's consumption of meat and it's mortality rate.
 
 ## Data Sources (Extract)
 
 ### Unintentional poisoning
+(Mortality_Database)
+https://www.who.int/data/data-collection-tools/who-mortality-database --> This is the link to click to once pushed to repo
+
 
 ### Meat Consumption
 
@@ -17,7 +20,7 @@ By combining the CDC's data on deaths from unintentional poisoning (2000 - 2015)
 
 ## Findings
 
-## (bonus Predictive analysis using machine learning)
+## (Bonus) Use K-means clustering to provide insight into 
 
 ## To Do 10/10/2021
 Outline the structure of the new Read Me file which should:
