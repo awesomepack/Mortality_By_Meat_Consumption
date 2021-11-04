@@ -1,9 +1,9 @@
-# Mortality_By_Meat_Consumption
+# Project Scope
+The CDC is questioning the lethality of meat. They have hired us to see if we can use data housed in their Mortality Database to find any correlation between a country's consumption of meat and the number of deaths it reports.
 
 ## Summary:
-By combining the CDC's data on death from unintentional poisoning (2000 - 2015) with OECD's data on meat consumption (1990 - 2029) by country we investigated a correlation between the amount of meat a country consumed and the number of fatalities it recorded on account of unintentional posioning.
+In this project we establish an ETL workflow in which we:
+* Use the scope of our project to define data sources
+* Transform the data into an intuitive schema
+* Upload our processed data into our target RDS
 
-## Overview:
-- ### ETL
-- ### Analysis
-- ### Findings
