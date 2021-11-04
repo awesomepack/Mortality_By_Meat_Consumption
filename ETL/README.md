@@ -2,7 +2,12 @@
 
 ## Data Sources
 * [WHO Mortality Database](https://github.com/awesomepack/Mortality_By_Meat_Consumption/edit/main/ETL/README.md): A dataset of deaths reported by members of WHO
-* 
+* [OECD Meat Consumption](https://data.oecd.org/agroutput/meat-consumption.htm): Dataset lists meat consumption per capita for many countries
+* [OECD Country Codes](https://github.com/awesomepack/Mortality_By_Meat_Consumption/blob/main/ETL/Resources/OECDCountryCodes.csv): Dataset of Country name and ISO Code Mapping
+
+# Transform
+
+
 
 - We debated on what data to use at the start until we decided on meat consumption and mortality.
 - How does meat consumption play a role in incidental poisoning? Is it mere correlation? What is the death rate for countries that eat alot of meat? Countries that eat less?
