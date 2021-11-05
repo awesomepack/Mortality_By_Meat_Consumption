@@ -39,10 +39,16 @@
 | MEASURE | String | WHO | Kilograms eaten per Capita |
 </details>
 
-- Merging between meat_df and mortality_df on columns = ['Year', 'Location']
-  
-Load
+  <details>
+  <summary>Meat Mortality</summary>
 
-- Using sqlalchemy, we loaded our data into postgressql.
+| Column Name | DataType | Source | Description |
+| --- | --- | --- | --- |
+| **Location** | *Date* | merged | Reporting Country |
+| Meat Type | String | merged | The country that reported the data |
+| Year | date | merged | year data was reported|
+| Kg Per Capita | Float | merged | kg of meat eaten |
+| Sex | String | merged | gender |
+| Mortality Rate (Per 100k Capita) | Float | merged | mortality rate per capita |
+</details>
 
-  - Reason: Arbitrary.
