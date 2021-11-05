@@ -14,7 +14,7 @@
  
  ## WHO Final Schema
  <details>
-  <summary>App List</summary>
+  <summary>WHO</summary>
 
 | Column Name | DataType | Source | Description |
 | --- | --- | --- | --- |
@@ -24,7 +24,19 @@
 | Value | Float | WHO | value of mortality rate |
 | Unit | String | WHO | Unit of mortality rate |
 </details>
- 
+
+## Meat Consumption Schema
+  <details>
+  <summary>Meat Consumption</summary>
+
+| Column Name | DataType | Source | Description |
+| --- | --- | --- | --- |
+| **TIME** | *Date* | Both | Year data was collected |
+| LOCATION | String | Both | The country that reported the data |
+| SUBJECT | String | OECD | Meat Type|
+| VALUE | Float | WHO | value of meat eaten |
+| MEASURE | String | WHO | Kilograms eaten per Capita |
+</details>
   
 
 
