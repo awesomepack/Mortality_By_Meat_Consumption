@@ -7,5 +7,5 @@ In this project we establish an ETL workflow in which we:
 * Transform the data into an intuitive schema
 * Upload our processed data into our target RDS
 
-Please Proceed into the [ETL](https://github.com/awesomepack/Mortality_By_Meat_Consumption/tree/main/ETL) Folder for more details.
+Please Proceed into the [ETL](https://github.com/awesomepack/Mortality_By_Meat_Consumption/tree/main/ETL) Folder for details on the project.
 
