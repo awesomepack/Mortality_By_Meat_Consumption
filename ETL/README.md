@@ -1,5 +1,5 @@
 # Extraction
-* [WHO Mortality Database](https://github.com/awesomepack/Mortality_By_Meat_Consumption/edit/main/ETL/README.md): A dataset of deaths reported by members of WHO
+* [WHO Mortality Database](https://www.who.int/data/data-collection-tools/who-mortality-database#:~:text=The%20WHO%20Mortality%20Database%20is%20a%20compilation%20of,and%20cause%20of%20death%20as%20reported%20by%20countries.): A dataset of deaths reported by members of WHO
 * [OECD Meat Consumption](https://data.oecd.org/agroutput/meat-consumption.htm): Dataset lists meat consumption per capita for many countries
 * [OECD Country Codes](https://github.com/awesomepack/Mortality_By_Meat_Consumption/blob/main/ETL/Resources/OECDCountryCodes.csv): Dataset that maps ISO country codes used in OECD dataset to country names used in WHO dataset
 
