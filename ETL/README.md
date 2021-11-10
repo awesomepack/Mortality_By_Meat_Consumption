@@ -11,7 +11,11 @@
   * WHO's Geography column had its Full Country names converted to their equivalent three letter code using the Country Codes CSV
 
 # Load
-  Postgres scripts were used to prepare the database for the cleaned data. SQLAlchemy was used to connect to our jupyter notebook and push our cleaned dataframe into the the moratlity_1 table. < Add links to each script>
+PostgreSQL was chosen as the data storage method because the structure of our data was predefined and ridgid.
+* [Meat_Mortality.sql](https://github.com/awesomepack/Mortality_By_Meat_Consumption/blob/main/ETL/Meat_Mortality.sql) Prepares the Meat_Mortality Database
+* [Mortality_Table.sql](https://github.com/awesomepack/Mortality_By_Meat_Consumption/blob/main/ETL/Mortality_Table.sql) Prepares the Mortality table for data insertion
+* SQLAlchemy is used to establish connection between jupyter notebook and Postgres instance
+* Pandas .toSQL() function is used to upload our clean dataframe into Mortality_Table
   
 
 
