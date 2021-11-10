@@ -1,5 +1,5 @@
 
-CREATE TABLE Mortality_1 (
+CREATE TABLE Mortality_Table (
 	Country VARCHAR(50) CONSTRAINT firstkey PRIMARY KEY ,
 	Admin1 VARCHAR(50) , 
 	Subdiv VARCHAR(50) ,
