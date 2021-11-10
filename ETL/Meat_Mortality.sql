@@ -2,7 +2,7 @@
 
 -- DROP DATABASE "Project2";
 
-CREATE DATABASE "Meat_Mortality"
+CREATE DATABASE "Project2"
     WITH 
     OWNER = postgres
     ENCODING = 'UTF8'
@@ -11,5 +11,5 @@ CREATE DATABASE "Meat_Mortality"
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1;
 
-COMMENT ON DATABASE "Meat_Mortality"
+COMMENT ON DATABASE "Project2"
     IS 'This database will house the schemas for Project 2';
