@@ -16,6 +16,8 @@ If you intend to recreate the steps in this project you will need to:
   * Duplicate records were dropped
   * Synonym columns were renamed to match (ex: 'sex' and 'gender' renamed to 'sex')
   * WHO's Geography column had its Full Country names converted to their equivalent three letter code using the Country Codes CSV
+ ![](screenshot/align.png)
+ ![](screenshot/merge.png)
 
 # Load
 PostgreSQL was chosen as the data storage method because the structure of our data was predefined and ridgid.
@@ -23,6 +25,7 @@ PostgreSQL was chosen as the data storage method because the structure of our da
 * [Mortality_Table.sql](https://github.com/awesomepack/Mortality_By_Meat_Consumption/blob/main/ETL/Mortality_Table.sql) Prepares the Mortality table for data insertion
 * SQLAlchemy is used to establish connection between jupyter notebook and Postgres instance
 * Pandas .toSQL() function is used to upload our clean dataframe into Mortality_Table
+![](screenshot/load.png)
   
 
 
